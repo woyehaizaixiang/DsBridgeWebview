@@ -136,7 +136,7 @@ class _WebviewPageState extends State<WebviewPage> {
 在JsBridgeUtil类中
 utils/JsBridgeUtil.dart
 ```
-import 'package:ds_bridge/ds_bridge.dart';
+import 'package:ds_bridge_webview/ds_bridge_webview.dart';
 class JsBridgeUtil {
   // 向H5调用接口
   static executeMethod(flutterWebViewPlugin, String jsonStr) async{
