@@ -1,6 +1,6 @@
 # ds_bridge
 
-A new Flutter package project.
+package project ds_bridge_webview.
 
 ## 说明
 此包是[webview_flutter](https://pub.flutter-io.cn/packages/webview_flutter)webview与网页交互的工具包
